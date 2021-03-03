@@ -1,0 +1,17 @@
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    color: white !important;
+    border: 1px solid transparent !important;
+    background-color: transparent !important;
+    background: transparent !important;
+}
+table.dataTable.no-footer {
+    border-bottom: 1px solid #e9ecef !important;
+}
+.page-item.disabled .page-link {
+    border-color: snow !important;
+    margin: 0 10px !important;
+}
+  .required:after {
+    content:" *";
+    color: red;
+  }
